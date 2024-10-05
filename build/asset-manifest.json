@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.214f2246.css",
+    "main.js": "/static/js/main.7ccd78cc.js",
+    "static/js/453.c0bde580.chunk.js": "/static/js/453.c0bde580.chunk.js",
+    "static/media/desktop.png": "/static/media/desktop.ed26ca1fbd3542f3c3af.png",
+    "static/media/image-1.png": "/static/media/image-1.2369155d9b0bd75476ca.png",
+    "static/media/blog-1.png": "/static/media/blog-1.cca7569317ad2ee6fe93.png",
+    "static/media/blog-2.png": "/static/media/blog-2.2fe39e46176057539926.png",
+    "static/media/avatar-2.png": "/static/media/avatar-2.7a0df033722deac7dd25.png",
+    "static/media/avatar-3.png": "/static/media/avatar-3.371092167ef966e7da4e.png",
+    "static/media/header-image.png": "/static/media/header-image.caf332ebbf8763a9d0f2.png",
+    "static/media/blog-3.png": "/static/media/blog-3.1816a142ad7532f8f582.png",
+    "static/media/avatar-1.png": "/static/media/avatar-1.3d82056730cb619a3165.png",
+    "static/media/profile.png": "/static/media/profile.f5fcc2e17230522bf2b1.png",
+    "static/media/iPhone.png": "/static/media/iPhone.3bc6d724714c70db07a8.png",
+    "static/media/logo.png": "/static/media/logo.c6b7feeedb70b2300b04.png",
+    "static/media/integrations.png": "/static/media/integrations.c453217feae549f5076d.png",
+    "static/media/reports.png": "/static/media/reports.6e76a8989b47c6f16f48.png",
+    "static/media/support.png": "/static/media/support.846e9c42fda46faf7653.png",
+    "static/media/customers.png": "/static/media/customers.f6add16c9e374ff1d7db.png",
+    "static/media/inbox.png": "/static/media/inbox.04a670b82ae94ffc99e8.png",
+    "static/media/instant-answer.png": "/static/media/instant-answer.88eeaa9eded19f0f4005.png",
+    "static/media/social-proof-4.png": "/static/media/social-proof-4.bd833488753806941c5e.png",
+    "static/media/social-proof-2.png": "/static/media/social-proof-2.99e7610ca833dff81259.png",
+    "index.html": "/index.html",
+    "main.214f2246.css.map": "/static/css/main.214f2246.css.map",
+    "main.7ccd78cc.js.map": "/static/js/main.7ccd78cc.js.map",
+    "453.c0bde580.chunk.js.map": "/static/js/453.c0bde580.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.214f2246.css",
+    "static/js/main.7ccd78cc.js"
+  ]
+}
